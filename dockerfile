@@ -1,3 +1,4 @@
-FROM centos:latest
-MAINTAINER Boubacar7
+FROM php:7.1-apache
+MAINTAINER Boub
 
+EXPOSE 80
